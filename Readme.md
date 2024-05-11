@@ -1,0 +1,1 @@
+[![Aritra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aritra779)](https://github.com/Aritra779/github-readme-stats)
