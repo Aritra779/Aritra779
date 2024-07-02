@@ -1,5 +1,7 @@
 <p align="center">
-  <a href="https://github.comAritra779"> https://github-stats-alpha.vercel.app/api?username=Aritra779&cc=000&tc=fff&ic=fff&bc=000</a>
+  <a href="https://github.comAritra779">
+    <img src="https://github-stats-alpha.vercel.app/api?username=Aritra779&cc=000&tc=fff&ic=fff&bc=000"/>
+  </a>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -13,11 +15,16 @@
 <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aritra779&theme=ocean_dark)
+<p align="center">
+  <a href="https://github.comAritra779">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aritra779&theme=ocean_dark"/>
+  </a>
 
+  <a href="https://github.comAritra779">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aritra779&theme=ocean_dark"/>
+  </a>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aritra779&theme=ocean_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aritra&theme=ocean_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aritra779&theme=ocean_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aritra779&theme=ocean_dark&utcOffset=5.5)
+  <a href="https://github.comAritra779">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aritra779&theme=ocean_dark&utcOffset=5.3"/>
+  </a>
+</p>
