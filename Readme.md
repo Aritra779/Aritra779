@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=8124F7&center=true&vCenter=true&multiline=true&random=false&width=435&height=100&lines=Aritra+Dutta;Full+Stack+Backend+Developer"?
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=500&color=8124F7&center=true&vCenter=true&multiline=true&random=false&width=800&height=100&lines=Aritra+Dutta;Full+Stack+Backend+Developer+at+Metasports+Media+Pvt.+Ltd."
 </p>
 
 <p align="center">
