@@ -1,5 +1,5 @@
 <p align="center">
-  [![Aritra's GitHub stats](https://github-stats-alpha.vercel.app/api?username=Aritra779&cc=000&tc=fff&ic=fff&bc=000)](https://github.com/Aritra779)
+  <a href="https://github.comAritra779"> https://github-stats-alpha.vercel.app/api?username=Aritra779&cc=000&tc=fff&ic=fff&bc=000</a>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
