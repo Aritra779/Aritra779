@@ -1,4 +1,4 @@
-[![Aritra's GitHub stats](https://github-readme-stats-aritra779s-projects.vercel.app/api?username=Aritra779&show_icons=true&theme=ambient_gradient)](https://github.com/Aritra779)
+[![Aritra's GitHub stats](https://github-stats-alpha.vercel.app/api?username=Aritra779&cc=000&tc=fff&ic=fff&bc=000)](https://github.com/Aritra779)
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aritra779&theme=ocean_dark)
