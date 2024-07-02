@@ -1,11 +1,16 @@
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=8124F7&center=true&vCenter=true&multiline=true&random=false&width=435&height=100&lines=Aritra+Dutta;Full+Stack+Backend+Developer"?
+</p>
+
+<p align="center">
   <a href="https://github.com/Aritra779">
     <img src="https://github-stats-alpha.vercel.app/api?username=Aritra779&cc=000&tc=fff&ic=fff&bc=000"/>
   </a>
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/aritra-dutta-6943a1222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aritra dutta" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aritra-dutta-6943a1222/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aritra dutta"/></a>
+<a href="mailto:aritra.dutta.366@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="aritra.dutta.366@gmail.com"/></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
