@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.comAritra779">
+  <a href="https://github.com/Aritra779">
     <img src="https://github-stats-alpha.vercel.app/api?username=Aritra779&cc=000&tc=fff&ic=fff&bc=000"/>
   </a>
 </p>
@@ -51,15 +51,15 @@
 
 
 <p align="center">
-  <a href="https://github.comAritra779">
+  <a href="https://github.com/Aritra779">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aritra779&theme=ocean_dark"/>
   </a>
 
-  <a href="https://github.comAritra779">
+  <a href="https://github.com/Aritra779">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aritra779&theme=ocean_dark"/>
   </a>
 
-  <a href="https://github.comAritra779">
+  <a href="https://github.com/Aritra779">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aritra779&theme=ocean_dark&utcOffset=5.3"/>
   </a>
 </p>
