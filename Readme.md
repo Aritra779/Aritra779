@@ -6,6 +6,13 @@
   <a href="https://github.com/Aritra779">
     <img src="https://github-stats-alpha.vercel.app/api?username=Aritra779&cc=000&tc=fff&ic=fff&bc=000"/>
   </a>
+
+</p>
+<p align="center">
+  
+  <a>
+    <img src="https://github-profile-trophy.vercel.app/?username=Aritra779&no-bg=true&no-frame=true&column=6&margin-w=10&margin-h=10"/>
+  </a>
 </p>
 
 <p align="center">
@@ -66,5 +73,13 @@
 
   <a href="https://github.com/Aritra779">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aritra779&theme=ocean_dark&utcOffset=5.3"/>
+  </a>
+
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-mu-umber.vercel.app?user=Aritra779&theme=ocean-dark&hide_border=true&exclude_days=Sun%2CSat&card_width=500&card_height=200&hide_total_contributions=true" alt="GitHub Streak" />
+  </a>
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aritra779&theme=dracula&days=30&area=true&area_color=A62FEC&line=A62FEC&bg_color=151A28ff&hide_border=true"/>
   </a>
 </p>
