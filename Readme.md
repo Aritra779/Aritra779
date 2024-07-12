@@ -9,9 +9,8 @@
 
 </p>
 <p align="center">
-  
   <a>
-    <img src="https://github-profile-trophy.vercel.app/?username=Aritra779&no-bg=true&no-frame=true&column=6&margin-w=10&margin-h=10"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Aritra779&theme=darkhub&no-frame=true&column=-1&margin-w=10&margin-h=10"/>
   </a>
 </p>
 
