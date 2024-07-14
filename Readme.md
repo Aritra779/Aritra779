@@ -59,13 +59,19 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   </p>
 
-
-
 <p align="center">
-  <a href="https://git.io/streak-stats">
+  <a href= "https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img src="https://github-readme-stats-ecru-chi.vercel.app/api/top-langs/?username=Aritra779&layout=donut&bg_color=151A28ff&hide_border=true"/>
+  </a>
+<br>
+<a href = "https://wakatime.com/" target="_blank">
+  <img src= "https://github-readme-stats.vercel.app/api/wakatime?username=Aritra779&bg_color=151A28ff&hide_border=true"/>
+</a>
+<br>
+  <a href="https://git.io/streak-stats" target="_blank">
     <img src="https://github-readme-streak-stats-mu-umber.vercel.app?user=Aritra779&theme=ocean-dark&hide_border=true&exclude_days=Sun%2CSat&card_width=500&card_height=200&hide_total_contributions=true" alt="GitHub Streak" />
   </a>
-
+<br>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aritra779&theme=dracula&days=30&area=true&area_color=A62FEC&line=A62FEC&bg_color=151A28ff&hide_border=true"/>
   </a>
