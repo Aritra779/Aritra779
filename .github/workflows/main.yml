@@ -1,11 +1,11 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "*/10 0 * * *"}]
+  schedule: [{cron: "*/120 0 * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
+  push: {branches: ["main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -23,7 +23,7 @@ jobs:
           repositories_affiliations: ""
           base: header, activity, community, repositories, metadata
           plugin_16personalities: yes
-          plugin_16personalities_url: "https://www.16personalities.com/profiles/37dfb0326fd2a"
+          plugin_16personalities_url: https://www.16personalities.com/profiles/37dfb0326fd2a
           plugin_16personalities_sections: personality, traits
           plugin_16personalities_scores: yes
           plugin_isocalendar: yes
@@ -32,4 +32,3 @@ jobs:
           plugin_reactions: yes
           plugin_reactions_limit: 100
           plugin_reactions_details: percentage
-          config_output: insights
