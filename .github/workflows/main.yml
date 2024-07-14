@@ -34,6 +34,7 @@ jobs:
           filename: images/metrics.personality.svg
           config_timezone: Asia/Kolkata
           base: ""
+          token: ${{ secrets.METRICS_TOKEN }}
           plugin_16personalities: yes
           plugin_16personalities_url: https://www.16personalities.com/profiles/37dfb0326fd2a
           plugin_16personalities_sections: personality, traits
