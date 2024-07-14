@@ -78,7 +78,14 @@
     <img src="https://github-readme-streak-stats-mu-umber.vercel.app?user=Aritra779&theme=ocean-dark&hide_border=true&exclude_days=Sun%2CSat&card_width=500&card_height=200&hide_total_contributions=true" alt="GitHub Streak" />
   </a>
 
+  <picture>
+    <img src="./images/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics"/>
+  </picture>
+
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aritra779&theme=dracula&days=30&area=true&area_color=A62FEC&line=A62FEC&bg_color=151A28ff&hide_border=true"/>
   </a>
+</p>
+
+<p align="center">
 </p>
