@@ -17,7 +17,7 @@ jobs:
       - name: Default metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.base.svg
+          filename: images/metrics.base.svg
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Asia/Kolkata
           repositories_affiliations: ""
@@ -29,3 +29,11 @@ jobs:
           filename: metrics.insights.html
           token: ${{ secrets.METRICS_TOKEN }}
           config_output: insights
+      - name: Full-year calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: images/metrics.plugin.isocalendar.fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
