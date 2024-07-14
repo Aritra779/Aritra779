@@ -17,12 +17,21 @@ jobs:
       - name: Default metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: images/metrics.plugin.achievements.svg
+          filename: images/metrics.user_details.svg
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Asia/Kolkata
           repositories_affiliations: ""
           base: header, activity, community, repositories, metadata
+          plugin_16personalities: yes
+          plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
+          plugin_16personalities_sections: personality, traits
+          plugin_16personalities_scores: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           plugin_achievements: yes
+          plugin_reactions: yes
+          plugin_reactions_limit: 100
+          plugin_reactions_details: percentage
       - name: Metrics insights
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
@@ -30,11 +39,3 @@ jobs:
           filename: metrics.insights.html
           token: ${{ secrets.METRICS_TOKEN }}
           config_output: insights
-      - name: Full-year calendar
-        uses: lowlighter/metrics@latest
-        with:
-          filename: images/metrics.plugin.isocalendar.fullyear.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year

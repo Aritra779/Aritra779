@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Aritra779">
-    <img src="https://github-stats-alpha.vercel.app/api?username=Aritra779&cc=000&tc=fff&ic=fff&bc=000"/>
-  </a>
+  <picture>
+    <img src="./images/metrics.plugin.achievements.svg" alt="Metrics"/>
+  </picture>
 
 </p>
 <p align="center">
