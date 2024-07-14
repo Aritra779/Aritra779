@@ -69,7 +69,7 @@
 </a>
 <br>
   <a href="https://git.io/streak-stats" target="_blank">
-    <img src="https://github-readme-streak-stats-mu-umber.vercel.app?user=Aritra779&theme=ocean-dark&hide_border=true&exclude_days=Sun%2CSat&card_width=500&card_height=200&hide_total_contributions=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-mu-umber.vercel.app?user=Aritra779&theme=ocean-dark&hide_border=true&exclude_days=Sun%2CSat&card_width=1000&card_height=200" alt="GitHub Streak" />
   </a>
 <br>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank">
