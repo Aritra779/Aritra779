@@ -22,3 +22,10 @@ jobs:
           config_timezone: Asia/Kolkata
           repositories_affiliations: ""
           base: header, activity, community, repositories, metadata
+      - name: Metrics insights
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.insights.html
+          token: ${{ secrets.METRICS_TOKEN }}
+          config_output: insights
