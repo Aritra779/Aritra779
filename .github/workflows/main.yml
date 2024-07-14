@@ -17,11 +17,12 @@ jobs:
       - name: Default metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: images/metrics.base.svg
+          filename: images/metrics.plugin.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Asia/Kolkata
           repositories_affiliations: ""
           base: header, activity, community, repositories, metadata
+          plugin_achievements: yes
       - name: Metrics insights
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
