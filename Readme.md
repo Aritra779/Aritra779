@@ -61,7 +61,7 @@
 
 <p align="center">
   <a href= "https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats-ecru-chi.vercel.app/api/top-langs/?username=Aritra779&layout=donut&bg_color=151A28ff&hide_border=true"/>
+    <img src="github-readme-stats-nejdowd3t-aritra779s-projects.vercel.app/api/top-langs/?username=Aritra779&layout=donut&bg_color=151A28ff&hide_border=true"/>
   </a>
 <br>
 <a href = "https://wakatime.com/" target="_blank">
